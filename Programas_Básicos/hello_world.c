@@ -18,7 +18,6 @@ Programa 1: Hello World
  int main(){ 
 
     printf("Olá Mundo!!");
-    system("pause");
     return 0;
 
 }
